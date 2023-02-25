@@ -32,8 +32,8 @@ node dsit/index.js --from <fromBlock> --to <toBlock> --fn events
 
 <h4>P.S: Before using the following commands your path must be "node dist/index.js" </h4>
 <b>--from <fromBlock> --to <toBlock> --fn events</b>    Fetches events from the specified block range
-*  -V, --version                                          Output the version number
-*  --fn, --fileName <optional fileName>                   File Name
+* -V, --version                                          Output the version number
+* --fn, --fileName <optional fileName>                   File Name
 *  --fnFrom, --fileNameFrom <optional fileName>           File Name From
 *  --fnTo, --fileNameTo <optional fileName>               File Name To
 *  --m, merge                                             Merge files
