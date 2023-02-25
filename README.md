@@ -2,9 +2,17 @@
 The indexer is a tool that is used to extract events from a Geth node using an RPC method and store it in a CSV file. The data captured is based on a deposit contract on Ethereum.
 
 # Setup
+Clone the repo
 ```sh 
 git clone https://github.com/abdulsamijay/Eth-deposit-indexer.git
 ```
+Create a .env file
+```sh
+API=""
+RPC_ENDPOINT=""
+MONGO_URI=""
+```
+
 
 # Built with
 
