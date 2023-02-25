@@ -5,8 +5,8 @@
 </a> 
 
 # Commands
-  -V, --version                                 Output the version number
-  --from, --fromBlock <fromBlock>               From Block
+*  -V, --version                                 Output the version number
+*  --from, --fromBlock <fromBlock>               From Block
   --to, --toBlock <optional toBlock>            To Block
   --fn, --fileName <optional fileName>          File Name
   --fnFrom, --fileNameFrom <optional fileName>  File Name From
