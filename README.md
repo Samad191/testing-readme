@@ -11,8 +11,5 @@
 *  --fn, --fileName <optional fileName>          File Name
 *  --fnFrom, --fileNameFrom <optional fileName>  File Name From
 *  --fnTo, --fileNameTo <optional fileName>      File Name To
-*  -h, hash                                      Get tx hash
 *  --m, merge                                    Merge files
-*  --u, unique                                   Get unique hashes
-*  --r, repeating tx hashes                      Get repeating hashes
 *  --help                                        Display help for command
