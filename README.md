@@ -23,6 +23,7 @@ node dsit/index.js --from <fromBlock> --to <toBlock> --fn events
 ```
 
 # Commands
+<h1>P.S: Before using the following commands your path must be "node dist/index.js" </h1>
 * <b>--from <fromBlock> --to <toBlock> --fn events</b>    Fetches events from the specified block range
 *  -V, --version                                          Output the version number
 *  --fn, --fileName <optional fileName>                   File Name
