@@ -1,2 +1,3 @@
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 # Built with
-<img align="left" alt="medium" src="https://www.freeiconspng.com/thumbs/tool-icon/tool-icon-33.jpg" width="20px" height="25px" margin="0 auto" />
+[![Next][Next.js]][Next-url]
