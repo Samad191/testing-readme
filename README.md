@@ -1,4 +1,2 @@
 # Built with
-[<img src={
-    "https://thumbs.dreamstime.com/b/tools-circle-blue-icon-concept-illustration-tools-circle-blue-icon-concept-118759125.jpg"
-    } />]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
