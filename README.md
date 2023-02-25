@@ -11,6 +11,12 @@ Clone the repo
 ```sh 
 git clone https://github.com/abdulsamijay/Eth-deposit-indexer.git
 ```
+Create build
+```sh
+npm run build
+```
+
+
 Create a .env file
 ```sh
 API=""
