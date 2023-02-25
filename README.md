@@ -5,10 +5,10 @@
 </a> 
 
 # Commands
-* <b>--from 15047200 --to 15047400 --fn events</b> 
-*  -V, --version                                 Output the version number
-*  --fn, --fileName <optional fileName>          File Name
-*  --fnFrom, --fileNameFrom <optional fileName>  File Name From
-*  --fnTo, --fileNameTo <optional fileName>      File Name To
-*  --m, merge                                    Merge files
-*  --help                                        Display help for command
+* <b>--from <fromBlock> --to <toBlock> --fn events</b>    Fetches events from the specified block range
+*  -V, --version                                          Output the version number
+*  --fn, --fileName <optional fileName>                   File Name
+*  --fnFrom, --fileNameFrom <optional fileName>           File Name From
+*  --fnTo, --fileNameTo <optional fileName>               File Name To
+*  --m, merge                                             Merge files
+*  --help                                                 Display help for command
