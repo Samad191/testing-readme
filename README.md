@@ -1,2 +1,2 @@
 # Built with
-[<img align="left" alt="medium" src="https://thumbs.dreamstime.com/b/tools-circle-blue-icon-concept-illustration-tools-circle-blue-icon-concept-118759125.jpg" />]
+[<img align="left" alt="medium" src="https://cdn-icons-png.flaticon.com/512/82/82121.png" />]
