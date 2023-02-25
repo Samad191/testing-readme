@@ -5,9 +5,8 @@
 </a> 
 
 # Commands
+* <b>--from 15047200 --to 15047400 --fn events</b> 
 *  -V, --version                                 Output the version number
-*  --from, --fromBlock <fromBlock>               From Block
-*  --to, --toBlock <optional toBlock>            To Block
 *  --fn, --fileName <optional fileName>          File Name
 *  --fnFrom, --fileNameFrom <optional fileName>  File Name From
 *  --fnTo, --fileNameTo <optional fileName>      File Name To
